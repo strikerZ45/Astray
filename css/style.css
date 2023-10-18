@@ -3,5 +3,7 @@
   overflow: hidden;
 }
 #top-container {
-	
+  float: left;
+  width: 100%;
+  position: relative;
 }

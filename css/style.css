@@ -7,12 +7,17 @@
   width: 100%;
   position: relative;
 }
-.img {
-  height: 50%;
-  width: 50%;
-}
+
 #main {
   background-color: white;
   padding: 2% 20%;
   padding-left: 10%
+}
+#imgofastray {
+  height: auto;
+  width: 20%;
+  object-fit: contain;
+  float: left;
+  border-radius: 30%;
+  margin: 5%;
 }
